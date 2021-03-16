@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+}
+
+#tarjeta
+{
+    background-color: #D0D1D3;
+    width: 450px;
+    height: 650px;
+    display: block;
+    margin: auto;
+    margin-top: 65px;
+    text-align: center;
+}
+
+#imagen
+{
+    width: 350px;
+    display: block;
+    margin: auto;
+    padding-top: 70px;
+}
+
+#titulo
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+    font-size: 22px;
+    padding-top: 60px
+}
+
+#parrafo
+{
+    text-align: left;
+    width: 355px;
+    display: block;
+    margin: auto;
+    font-size: 15px;
+    padding-top: 30px;
+    line-height: 20px;
+}
+
+#boton 
+{
+    background-color: red;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+    width: fit-content;
+    padding: 10px 30px;
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+}
